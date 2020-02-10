@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="checkBox1">Цифры</string>
+    <string name="checkBox2">Прописные буквы</string>
+    <string name="checkBox3">Строчные буквы</string>
+    <string name="checkBox4">Спец. символы</string>
+    <string name="button">Сгенерировать пароль</string>
+</resources>
